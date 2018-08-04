@@ -20,13 +20,13 @@ Je devrais pouvoir faire :
 ## Contraintes 
 
 Afin de pratiquer dans la joie et la bonne humeur, il y a quelques contraintes : 
-- le kata se fait OBLIGATOIREMENT en [TDD](http://blog.thiga.fr/glossaire/tdd/)
-- les fonctions de retrait, dépôt et d'impression retournent toujours void
-- un seul niveau d'indentation par fonctions
+- le kata se fait **OBLIGATOIREMENT en [TDD](http://blog.thiga.fr/glossaire/tdd/)**
+- les fonctions de retrait, dépôt et d'impression retournent toujours **void**
+- un seul niveau **d'indentation** par fonctions
 - on ne peut pas utiliser le mot clé **ELSE**
-- un seul niveau d'appel par le point, par ligne
-- pas d'abbréviation
-- pas de getters/setters/propriétés
+- un seul **point** par ligne
+- pas **d'abbréviation**
+- pas de **getters/setters/propriétés**
 
 ## Exemple
 **Etant donné que** je fais un dépôt de 1 000€ le 10/06/2018  
