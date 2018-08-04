@@ -5,11 +5,13 @@ Ce kata est inspiré du [kata bank de Sandro Mancuso](https://github.com/sandrom
 ## A propos de ce repository
 Le but de ce repo est de fournir une base de travail, dans ce cas en Javascript, prête pour faire ce kata.
 
-La branche master correspond à la base de ce kata.
-Des branches reprennant les diverses étapes / solutions seront créées (WIP)
+La branche master correspond à la base de ce kata.  
+Des branches reprennant les diverses étapes / solutions seront créées **(WIP)**
 
 ## But
-Le sujet de ce kata est votre compte bancaire. Ne vous inquiétez, on ne vous demandera pas le code de votre carte bleue. Mais nous allons implémenter en TDD, certaines fonctionnalités de base de votre compte bancaire
+Le sujet de ce kata est votre compte bancaire.  
+Ne vous inquiétez, on ne vous demandera pas le code de votre carte bleue.  
+Mais nous allons implémenter en TDD, certaines fonctionnalités de base de votre compte bancaire
 
 ## Actions possibles
 Je devrais pouvoir faire :
