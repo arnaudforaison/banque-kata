@@ -1,0 +1,29 @@
+{
+  "name": "banque-kata",
+  "version": "1.0.0",
+  "description": "Un kata connu sur le thème de la banque",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudforaison/banque-kata.git"
+  },
+  "keywords": [
+    "kata",
+    "software",
+    "bank",
+    "banque",
+    "craftmanship"
+  ],
+  "author": "Arnaud Foraison <a.foraison@proxiad.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arnaudforaison/banque-kata/issues"
+  },
+  "homepage": "https://github.com/arnaudforaison/banque-kata#readme",
+  "dependencies": {
+    "eslint": "^5.3.0",
+    "mocha": "^5.2.0"
+  }
+}
