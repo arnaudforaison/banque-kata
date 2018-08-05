@@ -1,4 +1,5 @@
 module.exports = {
+    "root": true,
     "env": {
         "es6": true,
         "node": true,
@@ -12,7 +13,10 @@ module.exports = {
     "rules": {
         "indent": [
             "error",
-            "tab"
+            2,
+            { 
+              "SwitchCase": 1
+            }
         ],
         "linebreak-style": [
             "error",
@@ -20,11 +24,12 @@ module.exports = {
         ],
         "quotes": [
             "error",
-            "single"
+            "single", { "allowTemplateLiterals": true }
         ],
         "semi": [
             "error",
             "never"
-        ]
+        ],
+        "space-before-function-paren": 1
     }
 };
