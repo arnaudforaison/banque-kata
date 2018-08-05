@@ -30,6 +30,7 @@ module.exports = {
             "error",
             "never"
         ],
-        "space-before-function-paren": 1
+        "space-before-function-paren": 1,
+        'no-console': 'off'
     }
 };

@@ -38,7 +38,7 @@ _Et_ un retrait au distributeur de 500€ le 14/06/2018
 **Quand** je demande mon relevé de compte
 
 **Alors** je souhaite avoir un reçu avec
-> Date || debit || balance  
+> Date || Debit || Balance  
 > 14/06/2018 || 500 || 2500.00  
 > 13/06/2018 || 2000.00 || 3000.00  
 > 10/06/2018 || 1000.00 || 1000.00
